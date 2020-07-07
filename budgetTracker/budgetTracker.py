@@ -699,10 +699,3 @@ class Main:
 if __name__ == '__main__':
     m = Main
     m.first_greeting(Main())
-
-
-# TODO - napisac jaka jest wersja aktualnie i wkleic na jakos strone i tam dawac aktualizacje i zeby sie pobieralo
-# TODO - zrobic zapisywanie sie danych wprowadzonych na kompie i po kolejnym otwarciu zeby wszystko bylo
-# TODO - po kolejnym otwarciu rownierz powitanie oraz pobieranie danych z komputera
-# TODO - zrobic instalatora (setup)
-# TODO - zrobic sprawdzanie czy pierwszy raz ktos wchodzi a jak nie pierwszy to inne przywitanie
